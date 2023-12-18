@@ -1,0 +1,22 @@
+.cardContainer{
+    width: 49vh;
+    padding: 1vw;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    background: rgb(19, 0, 32);
+    border: 2px solid rgb(75, 0, 122);
+    box-shadow: 3px 3px 3px black;
+    margin: 0;
+    
+}
+.cardContainer h1{
+    font-size: 17px;
+    color: white;
+    text-align: left;
+    border: 1x solid white;
+}
+.cardContainer p{
+    color: white;
+    padding: 0;
+}
